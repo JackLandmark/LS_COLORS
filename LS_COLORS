@@ -755,6 +755,7 @@ TERM screen-bce
 TERM screen-w
 TERM screen.linux
 TERM screen.rxvt
+TERM st
 TERM terminator
 TERM tmux-256color
 TERM vt100
