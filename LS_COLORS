@@ -146,12 +146,10 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .docx                 38;5;111            # Documents
 .odb                  38;5;111            # Documents
 .odt                  38;5;111            # Documents
-.ott                  38;5;111            # Documents # template
 .rtf                  38;5;111            # Documents
 .sent                 38;5;166            # Presentation
 .pages                38;5;111            # Documents
 .odp                  38;5;166            # Presentation
-.otp                  38;5;166            # Presentation # template
 .pps                  38;5;166            # Presentation
 .ppt                  38;5;166            # Presentation
 .pptx                 38;5;166            # Presentation
@@ -163,7 +161,6 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .tsv                  38;5;78             # Spreadsheet (plain text)
 .numbers              38;5;112            # Spreadsheet
 .ods                  38;5;112            # Spreadsheet
-.ots                  38;5;112            # Spreadsheet # template
 .xla                  38;5;76             # Spreadsheet
 .xls                  38;5;112            # Spreadsheet
 .xlsx                 38;5;112            # Spreadsheet
@@ -738,6 +735,9 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .bbl                  38;5;244            # LaTeX bibliography file
 .bcf                  38;5;244            # LaTeX bibliography file
 .blg                  38;5;244            # LaTeX bibliography file
+.otp                  38;5;166            # Presentation template
+.ott                  38;5;111            # Documents template
+.ots                  38;5;112            # Spreadsheet template
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # termcap
