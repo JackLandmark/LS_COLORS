@@ -410,6 +410,47 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .otg                  38;5;99             # Graphics (Vector) # template
 .ps                   38;5;99             # Graphics (Vector)
 .svg                  38;5;99             # Graphics (Vector)
+.3fr                  38;5;96             # Graphics raw
+.ari                  38;5;96             # Graphics raw
+.arw                  38;5;96             # Graphics raw
+.bay                  38;5;96             # Graphics raw
+.bra                  38;5;96             # Graphics raw
+.crw                  38;5;96             # Graphics raw
+.cr2                  38;5;96             # Graphics raw
+.cr3                  38;5;96             # Graphics raw
+.data                 38;5;96             # Graphics raw
+.dcs                  38;5;96             # Graphics raw
+.dcr                  38;5;96             # Graphics raw
+.dng                  38;5;96             # Graphics raw
+.drf                  38;5;96             # Graphics raw
+.eip                  38;5;96             # Graphics raw
+.erf                  38;5;96             # Graphics raw
+.fff                  38;5;96             # Graphics raw
+.gpr                  38;5;96             # Graphics raw
+.iiq                  38;5;96             # Graphics raw
+.k25                  38;5;96             # Graphics raw
+.kdc                  38;5;96             # Graphics raw
+.mdc                  38;5;96             # Graphics raw
+.mef                  38;5;96             # Graphics raw
+.mos                  38;5;96             # Graphics raw
+.mrw                  38;5;96             # Graphics raw
+.nef                  38;5;96             # Graphics raw
+.nrw                  38;5;96             # Graphics raw
+.obm                  38;5;96             # Graphics raw
+.orf                  38;5;96             # Graphics raw
+.pef                  38;5;96             # Graphics raw
+.ptx                  38;5;96             # Graphics raw
+.pxn                  38;5;96             # Graphics raw
+.r3d                  38;5;96             # Graphics raw
+.raf                  38;5;96             # Graphics raw
+.raw                  38;5;96             # Graphics raw
+.rwl                  38;5;96             # Graphics raw
+.rw2                  38;5;96             # Graphics raw
+.rwz                  38;5;96             # Graphics raw
+.sr2                  38;5;96             # Graphics raw
+.srf                  38;5;96             # Graphics raw
+.srw                  38;5;96             # Graphics raw
+.x3f                  38;5;96             # Graphics raw
 .avi                  38;5;114            # Video
 .divx                 38;5;114            # Video
 .IFO                  38;5;114            # Video
