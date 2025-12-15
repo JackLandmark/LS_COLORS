@@ -699,6 +699,9 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .feature              38;5;7
 .ger                  38;5;7
 .ics                  38;5;7              # calendar information
+.ifb                  38;5;7              # calendar information
+.iCal                 38;5;7              # calendar information
+.iFBf                 38;5;7              # calendar information
 .map                  38;5;7
 .mf                   38;5;7
 .mfasl                38;5;7
