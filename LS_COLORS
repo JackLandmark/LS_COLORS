@@ -405,6 +405,8 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .eps                  38;5;99             # Graphics (Vector)
 .epsf                 38;5;99             # Graphics (Vector)
 .drw                  38;5;99             # Graphics (Vector)
+.odg                  38;5;99             # Graphics (Vector)
+.otg                  38;5;99             # Graphics (Vector) # template
 .ps                   38;5;99             # Graphics (Vector)
 .svg                  38;5;99             # Graphics (Vector)
 .avi                  38;5;114            # Video
