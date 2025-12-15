@@ -148,6 +148,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .odt                  38;5;111            # Documents
 .ott                  38;5;111            # Documents # template
 .rtf                  38;5;111            # Documents
+.sent                 38;5;166            # Presentation
 .pages                38;5;111            # Documents
 .odp                  38;5;166            # Presentation
 .otp                  38;5;166            # Presentation # template
