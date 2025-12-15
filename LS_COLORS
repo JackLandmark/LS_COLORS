@@ -723,6 +723,8 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .vcf                  38;5;7              # contact information
 .xln                  38;5;7
 .cls                  38;5;7              # LaTeX class
+.bst                  38;5;7              # BibTex style file
+.dbj                  38;5;7              # BibTex style file
 .aux                  38;5;244            # LaTeX auxilary
 .fdb_latexmk          38;5;244            # LaTeX auxilary
 .toc                  38;5;244            # LaTeX auxilary
