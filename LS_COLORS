@@ -90,6 +90,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .rst                  38;5;184            # Markup
 .tex                  38;5;184            # Markup
 .textile              38;5;184            # Markup
+.wiki                 38;5;184            # Markup
 .bib                  38;5;178            # Data store # non-relational
 .json                 38;5;178            # Data store # non-relational
 .jsonc                38;5;178            # Data store # non-relational
