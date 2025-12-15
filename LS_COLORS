@@ -395,6 +395,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .psd                  38;5;97             # Graphics
 .pxd                  38;5;97             # Graphics
 .pxm                  38;5;97             # Graphics
+.xcf                  38;5;97             # Graphics
 .xpm                  38;5;97             # Graphics
 .webp                 38;5;97             # Graphics
 .ai                   38;5;99             # Graphics (Vector)
@@ -677,7 +678,6 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .mm                   38;5;7
 .gbr                  38;5;7
 .scm                  38;5;7
-.xcf                  38;5;7
 .spl                  38;5;7
 .Rproj                38;5;11
 .sis                  38;5;7
