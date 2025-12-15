@@ -710,6 +710,20 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .vcard                38;5;7              # contact information
 .vcf                  38;5;7              # contact information
 .xln                  38;5;7
+.cls                  38;5;7              # LaTeX class
+.aux                  38;5;244            # LaTeX auxilary
+.fdb_latexmk          38;5;244            # LaTeX auxilary
+.toc                  38;5;244            # LaTeX auxilary
+.lof                  38;5;244            # LaTeX auxilary
+.lot                  38;5;244            # LaTeX auxilary
+.fls                  38;5;244            # LaTeX build artifact
+.glg                  38;5;244            # LaTeX glossaries file
+.glo                  38;5;244            # LaTeX glossaries file
+.gls                  38;5;244            # LaTeX glossaries file
+.ist                  38;5;244            # LaTeX glossaries file
+.bbl                  38;5;244            # LaTeX bibliography file
+.bcf                  38;5;244            # LaTeX bibliography file
+.blg                  38;5;244            # LaTeX bibliography file
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # termcap
