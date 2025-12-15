@@ -85,6 +85,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .mdx                  38;5;184            # Markup
 .nfo                  38;5;184            # Markup
 .org                  38;5;184            # Markup
+.ms                   38;5;184            # Markup
 .norg                 38;5;184            # Markup
 .pod                  38;5;184            # Markup
 .rst                  38;5;184            # Markup
