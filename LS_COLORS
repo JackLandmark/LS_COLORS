@@ -145,6 +145,7 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3 # core
 .doc                  38;5;111            # Documents
 .docx                 38;5;111            # Documents
 .dotx                 38;5;111            # Documents # template
+.dot                 38;5;111            # Documents # template
 .odb                  38;5;111            # Documents
 .odt                  38;5;111            # Documents
 .rtf                  38;5;111            # Documents
